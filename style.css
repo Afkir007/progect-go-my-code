@@ -1,0 +1,86 @@
+
+.research{
+   background-image: url(library.jpg);
+
+}
+#demo{
+    background-color: burlywood;
+    border-radius: 3px;
+    border-color: chocolate;
+}
+table{
+ color: darkred;
+ width: 100%;
+}
+
+
+ .redstone{  
+ text-align: center;
+ zoom: 20%;
+ }
+ #overflowtest {
+    background: #4CAF50;
+  color: white;
+  padding: 15px;
+  width: 25%;
+  height: 100px;
+  overflow: scroll;
+  border: 1px solid #ccc;
+ }
+ p{
+     cursor: text;
+     outline: cornsilk;
+ }
+ img{
+     cursor: zoom-in;
+     border: solid red;
+     padding: 5px;
+    
+ }
+ video{
+     cursor:pointer;
+ }
+ body{
+     display: flex;
+     flex-flow: row; 
+    background-color: darkkhaki;
+     
+ }
+ label{
+     font-style: italic;
+     outline: lawngreen;
+     color:black;
+     border:blue solid;
+   background-color: yellow;
+ 
+ }
+ input{
+     border: blue solid;
+     color: darkgreen;
+ }
+ button{
+     color: black;
+     outline: blanchedalmond;
+     border: coral solid;
+     border-radius: 20px;
+     background-color: cyan;
+     cursor: pointer;
+ }
+ td{
+    text-align: center;
+  }
+#sticky{
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+    background-color: rgb(228, 219, 99);
+  border: crimson solid ;
+  font-size: medium;
+  font-family: cursive;
+  border-radius: 20px;
+  }
+  #log{
+      background-color: chartreuse;
+      color: darkgreen;
+      
+  }
